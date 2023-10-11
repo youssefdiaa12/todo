@@ -1,0 +1,20 @@
+{
+
+  "settings": "الاعدادات",
+  "lang": "لغة",
+  "mode": "الحاله",
+  "saveChange": "حفظ التغيرات",
+  "errorOccured" : "حدث خطأ أثناء تحميل المهام",
+  "title":"عنوان" ,
+  "description": "وصف",
+ "selectDate":"حدد تاريخ",
+ "addNewTask": "إضافة مهمة جديدة",
+ "editTask":"تحرير المهمة",
+   "done":"تمت!",
+   "edit":"تعديل",
+     "delete":"مسح"
+
+
+
+
+}

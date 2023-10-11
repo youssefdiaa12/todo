@@ -1,0 +1,16 @@
+{
+
+  "settings": "Settings",
+  "lang": "Language",
+  "mode": "Mode",
+  "saveChange": "Save Changes",
+  "errorOccured" : "Error occured while loading tasks",
+  "title": "title",
+  "description": "description",
+  "selectDate": "select Date",
+  "addNewTask": "add new task",
+  "editTask":"edit task",
+  "done":"done!",
+  "edit":"edit",
+  "delete":"delete"
+}
